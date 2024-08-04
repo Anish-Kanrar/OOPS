@@ -1,6 +1,6 @@
 package CollegeJAVA.Day_02;
 
-class Student3 {
+ class Student3 {
     int roll;
     String number;
     float marks;
