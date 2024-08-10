@@ -1,6 +1,5 @@
-package CollegeJAVA.Day_01;
 
-public class printName {
+public class printName{
     public static void main(String args[]){
         System.out.println("Name:Anish Kanrar");
         System.out.println("Roll:CSE/22/033");
