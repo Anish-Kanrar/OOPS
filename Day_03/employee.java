@@ -1,5 +1,6 @@
 package CollegeJAVA.Day_03;
 //The main purpose of constructor is initializing the obj.
+
 public class employee {
     int id;
     String name;
