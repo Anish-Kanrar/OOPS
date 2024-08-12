@@ -14,6 +14,7 @@ public class employee {
         this.designation=designation;
         this.bs=bs;
     }
+    
     void printData(){  //print employee's details & net salary
         double HRA = 0.20*bs;
         double DA = 0.90*bs;
