@@ -6,8 +6,8 @@ public class number {
         System.out.print("Enter the number:");
         int n = sc.nextInt();
         if (n % 2 == 0)
-            System.out.println("Even Number");
+            System.out.println(n + " is Even Number");
         else
-            System.out.println("Odd Number");
+            System.out.println(n + " is Odd Number");
     }
 }
