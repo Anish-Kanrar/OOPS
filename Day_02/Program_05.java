@@ -28,6 +28,5 @@ class Student3Test{
         s1.display();
         s1.setData(34,"99",86.9f);
         s1.display();
-
     }
 }
