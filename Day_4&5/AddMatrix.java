@@ -24,6 +24,7 @@ class AddMatrix {
 
             System.out.println();
         }
+        
         System.out.println("Enter the elements of matrix2");
 
         for (i = 0; i < row; i++) {
