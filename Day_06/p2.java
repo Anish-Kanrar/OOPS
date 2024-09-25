@@ -3,6 +3,7 @@ abstract class Shape {
     abstract void SquareArea(float s);
     abstract void CircleArea(float r);
 }
+
 class Area extends Shape {
     void RectangleArea(float l, float b) {
         System.out.println("Area of Rectangle: " + (l * b) + " sq. unit");
@@ -14,6 +15,7 @@ class Area extends Shape {
         System.out.println("Area of Circle: " + (3.14 * r * r) + " sq. unit");
     }
 }
+
 public class p2 {
     public static void main(String args[]) {
         Area a1 = new Area();
